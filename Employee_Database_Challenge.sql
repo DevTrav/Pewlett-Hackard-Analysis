@@ -23,3 +23,10 @@ WHERE to_date = ('9999-01-01')
 ORDER BY emp_no ASC;
 
 SELECT * FROM unique_titles
+
+-- Retiring titles COUNT
+SELECT COUNT(ut.emp_no), ut.title
+INTO retiring_titles
+FROM unique_titles as ut
+GROUP BY title
+ORDER BY COUNT(title) DESC;
