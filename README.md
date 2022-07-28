@@ -25,7 +25,7 @@ The findings will be used to design a mentorship program for new-hires, led by r
 
 - Hewlett Hackard will need to account for the "Silver Tsunami" by investing in recruitment and leadership development.
 - The Engineering department will see the highest impact, 36% of Senior staff getting ready to retire.
-- Pewlett Hackard could start initiatives with internal recruitment of Engineers from other departments. The initiative could serve two purposes:
+- Pewlett Hackard could start initiatives with internal recruitment of Engineers from other departments. The initiative could serve three purposes:
   - Train current non-Senior Engineers on leadership skills needed to become Senior engineers.
   - Train the Engineering depart on how to collectively train and recruit new Engineers.
   - Restaff the Engineering team without the expense of external hiring 
